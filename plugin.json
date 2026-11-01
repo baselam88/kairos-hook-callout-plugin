@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Writes post/short openings that name the audience or their problem so precisely the right person self-selects \u2014 in the prospect's vocabulary.",
+  "keywords": [
+    "callout",
+    "hook",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-hook-callout",
+  "repository": "https://github.com/baselam88/kairos-hook-callout-plugin",
+  "version": "0.1.0"
+}
